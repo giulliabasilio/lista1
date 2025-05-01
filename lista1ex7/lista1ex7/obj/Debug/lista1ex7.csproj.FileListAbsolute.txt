@@ -1,0 +1,7 @@
+C:\Users\SAMSUNG\source\repos\lista1ex8\lista1ex7\bin\Debug\lista1ex7.exe.config
+C:\Users\SAMSUNG\source\repos\lista1ex8\lista1ex7\bin\Debug\lista1ex7.exe
+C:\Users\SAMSUNG\source\repos\lista1ex8\lista1ex7\bin\Debug\lista1ex7.pdb
+C:\Users\SAMSUNG\source\repos\lista1ex8\lista1ex7\obj\Debug\lista1ex7.csproj.AssemblyReference.cache
+C:\Users\SAMSUNG\source\repos\lista1ex8\lista1ex7\obj\Debug\lista1ex7.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\source\repos\lista1ex8\lista1ex7\obj\Debug\lista1ex7.exe
+C:\Users\SAMSUNG\source\repos\lista1ex8\lista1ex7\obj\Debug\lista1ex7.pdb
